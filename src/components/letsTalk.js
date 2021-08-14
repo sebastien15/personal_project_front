@@ -22,7 +22,7 @@ export default function LetsTalk() {
                 <div className="w-full sm:w-4/12">
                     
                     <div className="border border-red-500 rounded-md p-5 mb-5 text-white text-center py-5">
-                        <h5 className="font-bold text-xl">Rwanda, Kigali 316st</h5>
+                        <h5 className="font-bold text-xl">Rwanda, Kigali KG316st</h5>
                         <div>
                             <span></span>
                             <h5>Office Address</h5>
