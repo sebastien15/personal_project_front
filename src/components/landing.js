@@ -18,7 +18,7 @@ export default function Landig() {
                     <a href="/"><i class="fa fa-github"></i></a> */}
 
                 </div>
-                <img src="/art.png" alt="art " className="absolute bottom-0 right-0 h-2/6"/>
+                <img src="/art.png" alt="art " className="absolute bottom-0 right-0 h-2/6 sm:h-4/6"/>
             </div>
             
         </div>
