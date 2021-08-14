@@ -1,5 +1,7 @@
 import './App.css';
+import Footer from './components/footer';
 import Landig from './components/landing';
+import LetsTalk from './components/letsTalk';
 import Nav from './components/nav';
 
 function App() {
@@ -7,6 +9,8 @@ function App() {
     <div className="App">
       <Nav/>
       <Landig/>
+      <LetsTalk/>
+      <Footer/>
     </div>
   );
 }

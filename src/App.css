@@ -8,8 +8,11 @@ body{
 .nav-phone{
     top: 0px;
     left: 0px;
-    position: absolute;
+    position: fixed;
     min-height: 100vh;
     background-color: rgb(10, 16, 64);
-
+    z-index: 1000;
+}
+.sectionbg{
+    z-index: -10;
 }
