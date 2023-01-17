@@ -46,7 +46,7 @@ export default function LetsTalk() {
                         <h5 className="font-bold text-xl mb-10">You want more?</h5>
                         <div>
                             <span></span>
-                            <a href="/resume.docx" download className="border border-red-500 p-2 ">Download my cv</a>
+                            <a href="/modern seba resume (1).pdf" download className="border border-red-500 p-2 ">Download my cv</a>
                         </div>
                     </div>
                 </div>
